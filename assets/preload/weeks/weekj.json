@@ -1,0 +1,53 @@
+{
+	"storyName": "GO TO SLEEP",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "weekj",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"SDAMOS",
+			"jeff",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Sleeping Tragedies",
+			"jeff",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Endless Sleep",
+			"jeff",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Endless Nightmare",
+			"jeffInsane",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekj"
+}

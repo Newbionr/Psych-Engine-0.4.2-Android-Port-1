@@ -1,0 +1,53 @@
+{
+	"storyName": "IM DEAD",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "weeks",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Champion Battle",
+			"gold",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Uncertain Demise",
+			"golddead",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Lost Soul",
+			"golddead",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Beyond Death",
+			"golddead",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weekg"
+}
