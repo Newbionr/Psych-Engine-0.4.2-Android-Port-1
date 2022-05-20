@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MUSTNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="163" height="153" pivotX="5.5" pivotY="-3.5"/>
+	<SubTexture name="green0000" x="163" y="0" width="163" height="153" pivotX="2.45" pivotY="0.15"/>
+	<SubTexture name="purple0000" x="326" y="0" width="153" height="163" pivotX="1.3" pivotY="3.45"/>
+	<SubTexture name="red0000" x="0" y="163" width="154" height="163" pivotX="-1.7" pivotY="2.55"/>
+</TextureAtlas>

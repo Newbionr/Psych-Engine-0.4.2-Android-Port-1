@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="note.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note0000" x="0" y="0" width="690" height="648" pivotX="192.85" pivotY="352.55"/>
+	<SubTexture name="note0001" x="690" y="0" width="690" height="648"/>
+	<SubTexture name="note0002" x="1380" y="0" width="690" height="648"/>
+	<SubTexture name="note0003" x="2070" y="0" width="690" height="648"/>
+	<SubTexture name="note0004" x="2760" y="0" width="690" height="648"/>
+	<SubTexture name="note0005" x="0" y="648" width="690" height="648"/>
+	<SubTexture name="note0006" x="690" y="648" width="690" height="648"/>
+	<SubTexture name="note0007" x="1380" y="648" width="690" height="648"/>
+	<SubTexture name="note0008" x="2070" y="648" width="690" height="648"/>
+	<SubTexture name="note0009" x="2760" y="648" width="690" height="648"/>
+	<SubTexture name="note0010" x="0" y="1296" width="690" height="648"/>
+	<SubTexture name="note0011" x="690" y="1296" width="690" height="648"/>
+	<SubTexture name="note0012" x="1380" y="1296" width="690" height="648"/>
+	<SubTexture name="note0013" x="2070" y="1296" width="690" height="648"/>
+	<SubTexture name="note0014" x="2760" y="1296" width="690" height="648"/>
+	<SubTexture name="noteclick0000" x="3450" y="1296" width="432" height="416" pivotX="129" pivotY="129"/>
+	<SubTexture name="noteclick0001" x="0" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0002" x="432" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0003" x="864" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0004" x="1296" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0005" x="1728" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0006" x="2160" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0007" x="2592" y="1944" width="432" height="416"/>
+	<SubTexture name="noteclick0008" x="3024" y="1944" width="432" height="416"/>
+</TextureAtlas>

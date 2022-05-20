@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="explosion.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EXPLOSION0000" x="0" y="0" width="614" height="537" pivotX="288.8" pivotY="280.05"/>
+	<SubTexture name="EXPLOSION0001" x="614" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0002" x="1228" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0003" x="1842" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0004" x="2456" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0005" x="2456" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0006" x="3070" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0007" x="3070" y="0" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0008" x="0" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0009" x="0" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0010" x="614" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0011" x="614" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0012" x="1228" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0013" x="1228" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0014" x="1842" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0015" x="1842" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0016" x="2456" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0017" x="2456" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0018" x="3070" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0019" x="3070" y="537" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0020" x="0" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0021" x="0" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0022" x="614" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0023" x="614" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0024" x="1228" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0025" x="1228" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0026" x="1842" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0027" x="1842" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0028" x="2456" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0029" x="2456" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0030" x="3070" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0031" x="3070" y="1074" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0032" x="0" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0033" x="0" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0034" x="614" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0035" x="614" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0036" x="1228" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0037" x="1228" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0038" x="1842" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0039" x="1842" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0040" x="2456" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0041" x="2456" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0042" x="3070" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0043" x="3070" y="1611" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0044" x="0" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0045" x="0" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0046" x="614" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0047" x="614" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0048" x="1228" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0049" x="1228" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0050" x="1842" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0051" x="1842" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0052" x="2456" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0053" x="2456" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0054" x="3070" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0055" x="3070" y="2148" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0056" x="0" y="2685" width="614" height="537"/>
+	<SubTexture name="EXPLOSION0057" x="0" y="2685" width="614" height="537"/>
+</TextureAtlas>

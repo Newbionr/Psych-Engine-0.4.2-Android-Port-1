@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knife_notes.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="0" y="0" width="95" height="287" pivotX="-33" pivotY="45.25"/>
+	<SubTexture name="blue hold0000" x="95" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="blue tail0000" x="145" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="arrowUP0000" x="195" y="0" width="96" height="287" pivotX="-36.05" pivotY="42.25"/>
+	<SubTexture name="green hold0000" x="291" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="green tail0000" x="341" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="arrowLEFT0000" x="391" y="0" width="96" height="286" pivotX="-31.7" pivotY="41.8"/>
+	<SubTexture name="purple hold0000" x="487" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="purple tail0000" x="537" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="arrowRIGHT0000" x="587" y="0" width="96" height="287" pivotX="-24.05" pivotY="38.25"/>
+	<SubTexture name="red hold0000" x="683" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="red tail0000" x="733" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="platforms.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="platforms0000" x="0" y="0" width="1262" height="407" pivotX="10" pivotY="0"/>
+</TextureAtlas>

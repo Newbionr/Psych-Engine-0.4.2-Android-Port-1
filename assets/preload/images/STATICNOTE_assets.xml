@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STATICNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="155" pivotX="-0.25" pivotY="-0.7"/>
+	<SubTexture name="green0000" x="157" y="0" width="158" height="154" pivotX="-0.55" pivotY="-1.15"/>
+	<SubTexture name="purple0000" x="315" y="0" width="154" height="158" pivotX="-1.1" pivotY="-0.75"/>
+	<SubTexture name="red0000" x="0" y="158" width="154" height="158" pivotX="-2.25" pivotY="-1.6"/>
+</TextureAtlas>

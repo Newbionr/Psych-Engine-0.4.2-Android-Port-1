@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maskyboo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maskyboo0000" x="0" y="0" width="643" height="747" pivotX="-69.8" pivotY="353.1" frameX="-22" frameY="-661" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0001" x="643" y="0" width="621" height="717" frameX="-65" frameY="-338" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0002" x="1264" y="0" width="621" height="718" frameX="-71" frameY="-242" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0003" x="1264" y="0" width="621" height="718" frameX="-71" frameY="-242" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0004" x="1885" y="0" width="753" height="960" frameX="-21" frameY="-23" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0005" x="2638" y="0" width="699" height="917" frameX="-9" frameY="-11" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0006" x="3337" y="0" width="686" height="941" frameX="-7" frameY="-5" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0007" x="4023" y="0" width="686" height="944" frameX="-7" frameY="-2" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0008" x="4709" y="0" width="688" height="954" frameX="-5" frameY="-1" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0009" x="5397" y="0" width="691" height="955" frameX="-2" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0010" x="6088" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0011" x="6781" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0012" x="6781" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0013" x="6781" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0014" x="6781" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0015" x="6781" y="0" width="693" height="955" frameX="0" frameY="0" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0016" x="7474" y="0" width="693" height="954" frameX="0" frameY="-1" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0017" x="0" y="960" width="693" height="952" frameX="0" frameY="-3" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0018" x="693" y="960" width="693" height="946" frameX="0" frameY="-9" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0019" x="1386" y="960" width="693" height="935" frameX="0" frameY="-21" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0020" x="2079" y="960" width="693" height="918" frameX="0" frameY="-40" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0021" x="2772" y="960" width="693" height="894" frameX="0" frameY="-69" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0022" x="3465" y="960" width="693" height="862" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0023" x="4158" y="960" width="693" height="878" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0024" x="4851" y="960" width="693" height="903" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0025" x="5544" y="960" width="693" height="943" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0026" x="6237" y="960" width="693" height="1001" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0027" x="6930" y="960" width="693" height="1086" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0028" x="0" y="2046" width="693" height="1171" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0029" x="693" y="2046" width="693" height="1230" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0030" x="1386" y="2046" width="693" height="1269" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0031" x="2079" y="2046" width="693" height="1295" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0032" x="2772" y="2046" width="693" height="1310" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0033" x="3465" y="2046" width="693" height="1319" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0034" x="4158" y="2046" width="746" height="1323" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0035" x="4904" y="2046" width="802" height="1325" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0036" x="5706" y="2046" width="828" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0037" x="6534" y="2046" width="838" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0038" x="0" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0039" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0040" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0041" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0042" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0043" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0044" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0045" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0046" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0047" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0048" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0049" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0050" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0051" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+	<SubTexture name="maskyboo0052" x="841" y="3372" width="841" height="1326" frameX="0" frameY="-109" frameWidth="841" frameHeight="1435"/>
+</TextureAtlas>

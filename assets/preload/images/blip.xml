@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blip.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blip0000" x="0" y="0" width="141" height="132" pivotX="70.7" pivotY="66.65"/>
+	<SubTexture name="blip0001" x="141" y="0" width="141" height="132"/>
+	<SubTexture name="blip0002" x="282" y="0" width="141" height="132"/>
+	<SubTexture name="blip0003" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0004" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0005" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0006" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0007" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0008" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0009" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0010" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0011" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0012" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0013" x="0" y="132" width="141" height="132"/>
+	<SubTexture name="blip0014" x="0" y="132" width="141" height="132"/>
+</TextureAtlas>

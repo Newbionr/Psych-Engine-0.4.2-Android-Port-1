@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sketchystaticman.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpstatic0000" x="0" y="0" width="1284" height="725" pivotX="0" pivotY="0"/>
+	<SubTexture name="jumpstatic0001" x="1284" y="0" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0002" x="2568" y="0" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0003" x="3852" y="0" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0004" x="5136" y="0" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0005" x="6420" y="0" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0006" x="0" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0007" x="1284" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0008" x="2568" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0009" x="3852" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0010" x="5136" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0011" x="6420" y="725" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0012" x="0" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0013" x="1284" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0014" x="2568" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0015" x="3852" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0016" x="5136" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0017" x="6420" y="1450" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0018" x="0" y="2175" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0019" x="1284" y="2175" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0020" x="2568" y="2175" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0021" x="3852" y="2175" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0022" x="5136" y="2175" width="1284" height="725"/>
+	<SubTexture name="jumpstatic0023" x="6420" y="2175" width="1284" height="725"/>
+</TextureAtlas>

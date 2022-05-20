@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ambience.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ambience0000" x="0" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0001" x="0" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0002" x="0" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0003" x="1545" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0004" x="1545" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0005" x="1545" y="0" width="1545" height="773"/>
+	<SubTexture name="ambience0006" x="0" y="773" width="1545" height="773"/>
+	<SubTexture name="ambience0007" x="0" y="773" width="1545" height="773"/>
+	<SubTexture name="ambience0008" x="0" y="773" width="1545" height="773"/>
+</TextureAtlas>

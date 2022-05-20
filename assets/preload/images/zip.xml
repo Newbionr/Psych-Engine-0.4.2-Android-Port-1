@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zip.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zip0000" x="0" y="0" width="142" height="141" pivotX="70.7" pivotY="71.1"/>
+	<SubTexture name="zip0001" x="142" y="0" width="142" height="141"/>
+	<SubTexture name="zip0002" x="284" y="0" width="142" height="141"/>
+	<SubTexture name="zip0003" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0004" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0005" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0006" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0007" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0008" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0009" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0010" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0011" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0012" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0013" x="0" y="141" width="142" height="141"/>
+	<SubTexture name="zip0014" x="0" y="141" width="142" height="141"/>
+</TextureAtlas>

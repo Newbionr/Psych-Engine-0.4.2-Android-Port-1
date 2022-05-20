@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="warning.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="warning0000" x="0" y="0" width="387" height="742" pivotX="9.5" pivotY="9.5"/>
+	<SubTexture name="warning0001" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0002" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0003" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0004" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0005" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0006" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0007" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0008" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0009" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0010" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0011" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0012" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0013" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0014" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0015" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0016" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0017" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0018" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0019" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0020" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0021" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0022" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0023" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0024" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0025" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0026" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0027" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0028" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0029" x="0" y="0" width="387" height="742"/>
+	<SubTexture name="warning0030" x="387" y="0" width="387" height="742"/>
+	<SubTexture name="warning0031" x="387" y="0" width="387" height="742"/>
+</TextureAtlas>
