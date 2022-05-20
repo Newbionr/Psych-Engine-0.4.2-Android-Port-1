@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "battleground2",
+		"player1": "bfback",
+		"player2": "gold-phase3",
+		"player3": null,
+		"events": [
+			[
+				20800,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				45200,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gold-phase4"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gold-phase3"
+					]
+				]
+			],
+			[
+				97600,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "lost-soul"
+	}
+}
