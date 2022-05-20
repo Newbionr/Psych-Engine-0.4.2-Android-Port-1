@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		50
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "Gtalk",
+			"idle_name": "Gtalk0000"
+		}
+	],
+	"image": "goldD"
+}

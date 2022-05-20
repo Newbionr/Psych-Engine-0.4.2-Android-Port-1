@@ -1,0 +1,24 @@
+{
+	"position": [
+		-80,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "pixelgold",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				1
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "pixelgold",
+			"loop_name": "pixelgold"
+		}
+	]
+}
