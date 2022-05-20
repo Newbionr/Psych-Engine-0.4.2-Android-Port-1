@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "battleground2",
+		"player1": "goldback",
+		"player2": "red",
+		"player3": null,
+		"events": [
+			[
+				130000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pikachu"
+					],
+					[
+						"Change Character",
+						"0",
+						"celebi"
+					]
+				]
+			],
+			[
+				167333.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"goldback"
+					],
+					[
+						"Change Character",
+						"dad",
+						"red"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "no-hed-red"
+	}
+}
