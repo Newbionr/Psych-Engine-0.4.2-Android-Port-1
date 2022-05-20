@@ -1,0 +1,216 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "battleground2",
+		"player1": "bfback",
+		"player2": "gold-phase3",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.5"
+					]
+				]
+			],
+			[
+				10465.1162790698,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				29302.3255813953,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				40813.9534883721,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				41860.4651162791,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				44651.1627906977,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				47703.488372093,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				58604.6511627907,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				103255.813953488,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				103255.813953488,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				131162.790697674,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				132645.348837209,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				133953.488372093,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137180.232558139,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				138662.790697674,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				145290.697674419,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				147296.511627907,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				156279.069767442,
+				[
+					[
+						"DodgeEventCyndaquil",
+						"0.5",
+						""
+					]
+				],
+				null,
+				"Psychic Note"
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 172,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Uncertain Demise"
+	}
+}
