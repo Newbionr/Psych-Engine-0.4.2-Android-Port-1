@@ -1,0 +1,364 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "yard2",
+		"player1": "SLENDERTrep_bf",
+		"player2": "operator",
+		"player3": null,
+		"events": [
+			[
+				18600,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18675,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18750,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18825,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18900,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18975,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19050,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19125,
+				[
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					]
+				]
+			],
+			[
+				94875,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				94950,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95025,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					]
+				]
+			],
+			[
+				95175,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95250,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95325,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				95400,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95475,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				95550,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95625,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				95700,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					]
+				]
+			],
+			[
+				95775,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95850,
+				[
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					],
+					[
+						"Jumpscare",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95925,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"slenderSKETCH"
+					],
+					[
+						"Change Character",
+						"0",
+						"Trep_bfSKETCH"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.69",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"0",
+						"SLENDERTrep_bf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"operator"
+					],
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "smiley",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sight"
+	}
+}
