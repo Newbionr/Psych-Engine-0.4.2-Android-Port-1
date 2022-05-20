@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright babe i'm ready"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We might as well finish it off here "
+		},
+		{
+			"speed": 0.15,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess I lost.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's do one more my guy"
+		}
+	]
+}
