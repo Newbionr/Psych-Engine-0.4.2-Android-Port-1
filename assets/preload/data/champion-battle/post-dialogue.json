@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And it begins..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is rapping our only chance of leaving here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yup. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Has been and will always be our option of getting through things lol"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.47,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can.."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can still win this..."
+		},
+		{
+			"speed": 0.45,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Right..?"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't wanna give up..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won't."
+		}
+	]
+}

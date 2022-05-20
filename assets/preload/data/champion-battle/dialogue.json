@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Um",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "pixelbf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Babe, how are we gettin out of here..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We can't leave here without my magic and\\ni'm all out babe..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I used it all up when healing your wounds..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You might have to rap battle this guy if you\\nwant me to rechar-"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pixelgold",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey!"
+		},
+		{
+			"expression": "talk",
+			"text": "You must be Red!",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "though you look a lil strange...",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "Since when was your hair blue?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "and weren't you a little taller??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "No matter!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll win this battle no matter what!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "beep deep skeep boop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelbf"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh?",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "Dw, I'll translate.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgf"
+		},
+		{
+			"expression": "talk",
+			"text": "He says he wants to rap battle you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap! ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelbf"
+		},
+		{
+			"expression": "talk",
+			"text": "Rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't we battle with Pokemon dude?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "erm... we ain't got those",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgf"
+		},
+		{
+			"expression": "talk",
+			"text": "well...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "I did wait here for like... hours..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess we might as well...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "I will still beat you no matter what though!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelgold"
+		},
+		{
+			"expression": "talk",
+			"text": "les get it",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pixelbf"
+		}
+	]
+}
