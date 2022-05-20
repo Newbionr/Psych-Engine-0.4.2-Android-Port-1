@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="candles.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="candles0000" x="0" y="0" width="1484" height="662" pivotX="813.55" pivotY="-177"/>
+	<SubTexture name="candles0001" x="0" y="0" width="1484" height="662"/>
+	<SubTexture name="candles0002" x="1484" y="0" width="1484" height="662"/>
+	<SubTexture name="candles0003" x="1484" y="0" width="1484" height="662"/>
+	<SubTexture name="candles0004" x="0" y="662" width="1484" height="662"/>
+	<SubTexture name="candles0005" x="0" y="662" width="1484" height="662"/>
+	<SubTexture name="candles0006" x="1484" y="662" width="1484" height="662"/>
+	<SubTexture name="candles0007" x="1484" y="662" width="1484" height="662"/>
+	<SubTexture name="candles0008" x="0" y="1324" width="1484" height="662"/>
+	<SubTexture name="candles0009" x="0" y="1324" width="1484" height="662"/>
+</TextureAtlas>

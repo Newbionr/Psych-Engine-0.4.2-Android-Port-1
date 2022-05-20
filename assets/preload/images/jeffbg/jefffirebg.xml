@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jefffirebg.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="0" y="0" width="3230" height="1769" pivotX="700" pivotY="423"/>
+	<SubTexture name="fire0001" x="0" y="0" width="3230" height="1769"/>
+	<SubTexture name="fire0002" x="3230" y="0" width="3230" height="1769"/>
+	<SubTexture name="fire0003" x="3230" y="0" width="3230" height="1769"/>
+	<SubTexture name="fire0004" x="0" y="1769" width="3230" height="1769"/>
+	<SubTexture name="fire0005" x="0" y="1769" width="3230" height="1769"/>
+</TextureAtlas>
