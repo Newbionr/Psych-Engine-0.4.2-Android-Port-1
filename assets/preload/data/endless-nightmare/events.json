@@ -1,0 +1,206 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "jeffstageburn",
+		"player1": "Trep_bfBLOOD",
+		"player2": "jeffinsane",
+		"player3": null,
+		"events": [
+			[
+				4750,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"scaredgf"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jeffrey"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0"
+					]
+				]
+			],
+			[
+				134875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jeffinsane"
+					],
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"0.05",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				142125,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				151000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					],
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					],
+					[
+						"Screen Shake",
+						"0",
+						""
+					]
+				],
+				null,
+				"Knife Note"
+			],
+			[
+				152250,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				160125,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				168125,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				172125,
+				[
+					[
+						"DodgeEvent",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "newgf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Endless Nightmare"
+	}
+}
