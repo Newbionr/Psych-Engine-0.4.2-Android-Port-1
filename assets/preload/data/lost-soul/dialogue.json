@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.2,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Am I gonna die...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgolddead",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Am I already dead...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dude idk we just got here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is having no legs and arms normal in\\nPokemon babe...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, I don't think so.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We should be outta here after this next song tho."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My magic's almost finished charging up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pixelbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}
