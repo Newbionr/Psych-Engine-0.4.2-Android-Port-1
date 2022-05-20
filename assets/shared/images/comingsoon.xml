@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="comingsoon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="1179" height="613" pivotX="-0.05" pivotY="57.9"/>
+	<SubTexture name="Symbol 10001" x="0" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10002" x="1179" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10003" x="1179" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10004" x="2358" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10005" x="2358" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10006" x="2358" y="0" width="1179" height="613"/>
+	<SubTexture name="Symbol 10007" x="0" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10008" x="0" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10009" x="1179" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10010" x="1179" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10011" x="1179" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10012" x="1179" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10013" x="1179" y="613" width="1179" height="613"/>
+	<SubTexture name="Symbol 10014" x="1179" y="613" width="1179" height="613"/>
+</TextureAtlas>

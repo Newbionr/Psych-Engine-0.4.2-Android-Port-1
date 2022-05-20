@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_sprite.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down rest0000" x="0" y="0" width="14" height="18" pivotX="0" pivotY="0"/>
+	<SubTexture name="down walking0000" x="14" y="0" width="14" height="18" pivotX="0" pivotY="0.5"/>
+	<SubTexture name="down walking0001" x="14" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0002" x="14" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0003" x="14" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0004" x="28" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0005" x="28" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0006" x="28" y="0" width="14" height="18"/>
+	<SubTexture name="down walking0007" x="28" y="0" width="14" height="18"/>
+	<SubTexture name="left rest0000" x="42" y="0" width="14" height="16" pivotX="0" pivotY="0"/>
+	<SubTexture name="left walking0000" x="0" y="18" width="15" height="16" pivotX="0" pivotY="0.6"/>
+	<SubTexture name="left walking0001" x="0" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0002" x="0" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0003" x="0" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0004" x="15" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0005" x="15" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0006" x="15" y="18" width="15" height="16"/>
+	<SubTexture name="left walking0007" x="15" y="18" width="15" height="16"/>
+	<SubTexture name="right rest0000" x="30" y="18" width="14" height="16" pivotX="0" pivotY="0"/>
+	<SubTexture name="right walking0000" x="44" y="18" width="15" height="16" pivotX="0" pivotY="0.6"/>
+	<SubTexture name="right walking0001" x="44" y="18" width="15" height="16"/>
+	<SubTexture name="right walking0002" x="44" y="18" width="15" height="16"/>
+	<SubTexture name="right walking0003" x="44" y="18" width="15" height="16"/>
+	<SubTexture name="right walking0004" x="0" y="34" width="15" height="16"/>
+	<SubTexture name="right walking0005" x="0" y="34" width="15" height="16"/>
+	<SubTexture name="right walking0006" x="0" y="34" width="15" height="16"/>
+	<SubTexture name="right walking0007" x="0" y="34" width="15" height="16"/>
+	<SubTexture name="up rest 0000" x="15" y="34" width="14" height="16" pivotX="0" pivotY="0"/>
+	<SubTexture name="up walking0000" x="29" y="34" width="14" height="15" pivotX="0" pivotY="0"/>
+	<SubTexture name="up walking0001" x="29" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0002" x="29" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0003" x="29" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0004" x="43" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0005" x="43" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0006" x="43" y="34" width="14" height="15"/>
+	<SubTexture name="up walking0007" x="43" y="34" width="14" height="15"/>
+</TextureAtlas>

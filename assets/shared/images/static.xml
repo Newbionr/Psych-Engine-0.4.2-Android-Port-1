@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static loop0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="static loop0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="static loop0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="static loop0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="static loop0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="static loop0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="static loop0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="static loop0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="static loop0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="static loop0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="static loop0015" x="3840" y="1440" width="1280" height="720"/>
+</TextureAtlas>
