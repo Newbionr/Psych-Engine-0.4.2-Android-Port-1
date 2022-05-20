@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PH2gold_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PH2gold_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PH2gold_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PH2gold_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PH2gold_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold-phase2",
+	"has_win_anim": false,
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

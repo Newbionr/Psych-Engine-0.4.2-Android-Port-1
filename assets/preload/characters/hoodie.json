@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hoodie_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hoodie_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hoodie_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				87
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hoodie_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hoodie_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/masky_and_hoodie",
+	"has_win_anim": false,
+	"position": [
+		-220,
+		-60
+	],
+	"healthicon": "mands",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		195,
+		2
+	],
+	"camera_position": [
+		20,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

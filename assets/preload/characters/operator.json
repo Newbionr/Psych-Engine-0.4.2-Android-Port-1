@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oporator_idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "operator_left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				373,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "operator_down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "operator_up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				106
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "operator_right instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/slenderman",
+	"has_win_anim": true,
+	"position": [
+		-550,
+		-600
+	],
+	"healthicon": "slender",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		196,
+		196
+	],
+	"camera_position": [
+		-90,
+		-380
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

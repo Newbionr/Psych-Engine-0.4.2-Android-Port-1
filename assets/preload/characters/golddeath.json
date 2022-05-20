@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-146,
+				-6
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Gold Gameover loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				-7
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Confirm Gameover",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-216,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Intro Gameover"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/golddeath",
+	"has_win_anim": false,
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

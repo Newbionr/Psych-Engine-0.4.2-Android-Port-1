@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sweep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yeet",
+	"has_win_anim": false,
+	"position": [
+		640,
+		80
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-2690,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

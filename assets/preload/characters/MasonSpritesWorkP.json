@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-41
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mason Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-87
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mason sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mason sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mason sing Right"
+		},
+		{
+			"offsets": [
+				-107,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mason sing Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MasonSpritesWork",
+	"has_win_anim": false,
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "masonWork",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		63,
+		158
+	],
+	"camera_position": [
+		70,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

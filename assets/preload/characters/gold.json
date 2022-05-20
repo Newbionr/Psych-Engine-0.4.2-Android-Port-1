@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gold_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gold_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gold_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gold_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gold_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goldnormal",
+	"has_win_anim": false,
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

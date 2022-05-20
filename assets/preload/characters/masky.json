@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "masky_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "masky_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "masky_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "masky_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "masky_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/masky",
+	"has_win_anim": false,
+	"position": [
+		-360,
+		350
+	],
+	"healthicon": "mands",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		66,
+		10
+	],
+	"camera_position": [
+		-160,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
