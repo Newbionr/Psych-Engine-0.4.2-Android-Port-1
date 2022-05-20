@@ -1,98 +1,33 @@
 {
 	"song": {
-		"speed": 2.9,
-		"stage": "battleground2",
-		"player1": "bfback",
-		"player2": "gold-phase3",
+		"speed": 2.1,
+		"stage": "livingroom",
+		"player1": "babygf",
+		"player2": "jeffsit",
 		"player3": null,
 		"events": [
 			[
-				20800,
+				0,
 				[
 					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				24000,
-				[
+						"MoveArrow",
+						"0",
+						"0,0,0,0,0.1"
+					],
 					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				45200,
-				[
+						"MoveArrow",
+						"1",
+						"0,0,0,0,0.1"
+					],
 					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				48000,
-				[
+						"MoveArrow",
+						"2",
+						"0,0,0,0,0.1"
+					],
 					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				59200,
-				[
-					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				83200,
-				[
-					[
-						"Change Character",
-						"dad",
-						"gold-phase4"
-					]
-				]
-			],
-			[
-				96000,
-				[
-					[
-						"Change Character",
-						"dad",
-						"gold-phase3"
-					]
-				]
-			],
-			[
-				97600,
-				[
-					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
-					]
-				]
-			],
-			[
-				99200,
-				[
-					[
-						"DodgeEventCyndaquil",
-						"0.5",
-						""
+						"MoveArrow",
+						"3",
+						"0,0,0,0,0.1"
 					]
 				]
 			]
@@ -101,9 +36,9 @@
 		"splashSkin": null,
 		"validScore": false,
 		"gfVersion": "gf",
-		"bpm": 150,
+		"bpm": 140,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "lost-soul"
+		"song": "Lullaby"
 	}
 }
