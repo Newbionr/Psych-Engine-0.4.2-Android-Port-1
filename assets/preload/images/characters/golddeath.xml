@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="golddeath.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Confirm Gameover0000" x="0" y="0" width="500" height="665" pivotX="334.65" pivotY="606.55"/>
+	<SubTexture name="Confirm Gameover0001" x="500" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0002" x="1000" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0003" x="1500" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0004" x="2000" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0005" x="2500" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0006" x="3000" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0007" x="3500" y="0" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0008" x="0" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0009" x="0" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0010" x="0" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0011" x="500" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0012" x="500" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0013" x="1000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0014" x="1500" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0015" x="1000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0016" x="1000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0017" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0018" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0019" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0020" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0021" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0022" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0023" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0024" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0025" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0026" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0027" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0028" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0029" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0030" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Confirm Gameover0031" x="2000" y="665" width="500" height="665"/>
+	<SubTexture name="Gold Gameover loop0000" x="2500" y="665" width="500" height="650" pivotX="334.65" pivotY="591"/>
+	<SubTexture name="Gold Gameover loop0001" x="3000" y="665" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0002" x="3500" y="665" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0003" x="0" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0004" x="500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0005" x="1000" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0006" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0007" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0008" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0009" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0010" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0011" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0012" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Gold Gameover loop0013" x="1500" y="1330" width="500" height="650"/>
+	<SubTexture name="Intro Gameover0000" x="2000" y="1330" width="500" height="619" pivotX="334.65" pivotY="560"/>
+	<SubTexture name="Intro Gameover0001" x="2500" y="1330" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0002" x="3000" y="1330" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0003" x="3500" y="1330" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0004" x="0" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0005" x="500" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0006" x="1000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0007" x="1500" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0008" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0009" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0010" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0011" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0012" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0013" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0014" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0015" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0016" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0017" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0018" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0019" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0020" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0021" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0022" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0023" x="2000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0024" x="2500" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0025" x="3000" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0026" x="3500" y="1980" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0027" x="0" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0028" x="500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0029" x="1000" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0030" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0031" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0032" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0033" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0034" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0035" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0036" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0037" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0038" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0039" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0040" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0041" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0042" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0043" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0044" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0045" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0046" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0047" x="1500" y="2599" width="500" height="619"/>
+	<SubTexture name="Intro Gameover0048" x="1500" y="2599" width="500" height="619"/>
+</TextureAtlas>

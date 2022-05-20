@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfbb.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfbb0000" x="0" y="0" width="405" height="622" pivotX="40" pivotY="3.95"/>
+	<SubTexture name="gfbb0001" x="0" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0002" x="405" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0003" x="405" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0004" x="810" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0005" x="810" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0006" x="810" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0007" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0008" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0009" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0010" x="1620" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0011" x="1620" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0012" x="0" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0013" x="0" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0014" x="405" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0015" x="405" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0016" x="810" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0017" x="810" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0018" x="1215" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0019" x="1215" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0020" x="1620" y="622" width="405" height="622"/>
+	<SubTexture name="gfbb0021" x="1620" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0022" x="1620" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0023" x="1620" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0024" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0025" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0026" x="1215" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0027" x="810" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0028" x="810" y="0" width="405" height="622"/>
+	<SubTexture name="gfbb0029" x="810" y="0" width="405" height="622"/>
+</TextureAtlas>

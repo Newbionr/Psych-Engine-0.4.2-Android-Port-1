@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfworried.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="worried0000" x="0" y="0" width="433" height="596" pivotX="-54.8" pivotY="222.75"/>
+	<SubTexture name="worried0001" x="433" y="0" width="433" height="596"/>
+	<SubTexture name="worried0002" x="866" y="0" width="433" height="596"/>
+	<SubTexture name="worried0003" x="1299" y="0" width="433" height="596"/>
+	<SubTexture name="worried0004" x="0" y="596" width="433" height="596"/>
+	<SubTexture name="worried0005" x="433" y="596" width="433" height="596"/>
+	<SubTexture name="worried0006" x="866" y="596" width="433" height="596"/>
+	<SubTexture name="worried0007" x="866" y="596" width="433" height="596"/>
+	<SubTexture name="worried0008" x="1299" y="596" width="433" height="596"/>
+	<SubTexture name="worried0009" x="0" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0010" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0011" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0012" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0013" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0014" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0015" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0016" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0017" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0018" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0019" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0020" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0021" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0022" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0023" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0024" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0025" x="433" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0026" x="0" y="1192" width="433" height="596"/>
+	<SubTexture name="worried0027" x="1299" y="596" width="433" height="596"/>
+	<SubTexture name="worried0028" x="866" y="596" width="433" height="596"/>
+	<SubTexture name="worried0029" x="866" y="596" width="433" height="596"/>
+</TextureAtlas>

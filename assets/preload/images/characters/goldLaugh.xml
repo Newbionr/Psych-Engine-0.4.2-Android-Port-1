@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldLaugh.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laugh0000" x="0" y="0" width="529" height="990" pivotX="18.5" pivotY="133"/>
+	<SubTexture name="laugh0001" x="0" y="0" width="529" height="990"/>
+	<SubTexture name="laugh0002" x="529" y="0" width="529" height="990"/>
+	<SubTexture name="laugh0003" x="529" y="0" width="529" height="990"/>
+</TextureAtlas>

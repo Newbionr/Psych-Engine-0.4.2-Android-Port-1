@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="masky_and_hoodie.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hoodie_down0000" x="0" y="0" width="794" height="845" pivotX="-6.75" pivotY="-19"/>
+	<SubTexture name="hoodie_down0001" x="0" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0002" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0003" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0004" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0005" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0006" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0007" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0008" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0009" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0010" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0011" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0012" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0013" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_down0014" x="794" y="0" width="794" height="845"/>
+	<SubTexture name="hoodie_idle0000" x="1588" y="0" width="719" height="882" pivotX="-6.45" pivotY="-331.2"/>
+	<SubTexture name="hoodie_idle0001" x="2307" y="0" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0002" x="3026" y="0" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0003" x="0" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0004" x="719" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0005" x="1438" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0006" x="2157" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0007" x="2157" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0008" x="2157" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0009" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0010" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0011" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0012" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0013" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_idle0014" x="2876" y="882" width="719" height="882"/>
+	<SubTexture name="hoodie_left0000" x="0" y="1764" width="996" height="939" pivotX="259.55" pivotY="-274.95"/>
+	<SubTexture name="hoodie_left0001" x="996" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0002" x="1992" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0003" x="2988" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0004" x="0" y="2703" width="996" height="939"/>
+	<SubTexture name="hoodie_left0005" x="1992" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0006" x="2988" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0007" x="0" y="2703" width="996" height="939"/>
+	<SubTexture name="hoodie_left0008" x="1992" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0009" x="2988" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0010" x="0" y="2703" width="996" height="939"/>
+	<SubTexture name="hoodie_left0011" x="1992" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0012" x="2988" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_left0013" x="0" y="2703" width="996" height="939"/>
+	<SubTexture name="hoodie_left0014" x="1992" y="1764" width="996" height="939"/>
+	<SubTexture name="hoodie_right0000" x="996" y="2703" width="773" height="855" pivotX="-26.8" pivotY="-358.1"/>
+	<SubTexture name="hoodie_right0001" x="996" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0002" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0003" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0004" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0005" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0006" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0007" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0008" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0009" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0010" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0011" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0012" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0013" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_right0014" x="1769" y="2703" width="773" height="855"/>
+	<SubTexture name="hoodie_up0000" x="2542" y="2703" width="770" height="969" pivotX="-48.65" pivotY="105"/>
+	<SubTexture name="hoodie_up0001" x="2542" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0002" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0003" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0004" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0005" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0006" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0007" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0008" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0009" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0010" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0011" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0012" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0013" x="3312" y="2703" width="770" height="969"/>
+	<SubTexture name="hoodie_up0014" x="3312" y="2703" width="770" height="969"/>
+</TextureAtlas>

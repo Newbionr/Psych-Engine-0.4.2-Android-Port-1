@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jeffdeath.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gameover Loop0000" x="0" y="0" width="583" height="760" pivotX="183.05" pivotY="634.5"/>
+	<SubTexture name="Gameover Loop0001" x="583" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0002" x="1166" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0003" x="1749" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0004" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0005" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0006" x="2915" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0007" x="2915" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0008" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0009" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0010" x="2915" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0011" x="2915" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0012" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0013" x="2332" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover Loop0014" x="2915" y="0" width="583" height="760"/>
+	<SubTexture name="Gameover confirm0000" x="3498" y="0" width="845" height="911" pivotX="345.8" pivotY="785.1"/>
+	<SubTexture name="Gameover confirm0001" x="4343" y="0" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0002" x="5188" y="0" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0003" x="6033" y="0" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0004" x="6878" y="0" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0005" x="0" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0006" x="845" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0007" x="1690" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0008" x="2535" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0009" x="3380" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0010" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0011" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0012" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0013" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0014" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0015" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0016" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0017" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0018" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0019" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0020" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0021" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0022" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0023" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Gameover confirm0024" x="4225" y="911" width="845" height="911"/>
+	<SubTexture name="Jeff Gameover anim0000" x="5070" y="911" width="1475" height="713" pivotX="917.6" pivotY="583.25"/>
+	<SubTexture name="Jeff Gameover anim0001" x="6545" y="911" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0002" x="0" y="1822" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0003" x="1475" y="1822" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0004" x="2950" y="1822" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0005" x="4425" y="1822" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0006" x="5900" y="1822" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0007" x="0" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0008" x="1475" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0009" x="2950" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0010" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0011" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0012" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0013" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0014" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0015" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0016" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0017" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0018" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0019" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0020" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0021" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0022" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0023" x="4425" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0024" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0025" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0026" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0027" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0028" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0029" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0030" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0031" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0032" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0033" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0034" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0035" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0036" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0037" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0038" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0039" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0040" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0041" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0042" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0043" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0044" x="5900" y="2535" width="1475" height="713"/>
+	<SubTexture name="Jeff Gameover anim0045" x="5900" y="2535" width="1475" height="713"/>
+</TextureAtlas>

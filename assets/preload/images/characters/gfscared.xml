@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfscared.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scared0000" x="0" y="0" width="593" height="792" pivotX="-217.95" pivotY="21.45"/>
+	<SubTexture name="scared0001" x="593" y="0" width="593" height="792"/>
+	<SubTexture name="scared0002" x="1186" y="0" width="593" height="792"/>
+	<SubTexture name="scared0003" x="0" y="792" width="593" height="792"/>
+</TextureAtlas>

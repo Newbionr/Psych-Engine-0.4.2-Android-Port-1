@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pokemon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="celebi0000" x="0" y="0" width="274" height="613" pivotX="525" pivotY="374.5"/>
+	<SubTexture name="celebi0001" x="274" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0002" x="548" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0003" x="822" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0004" x="1096" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0005" x="1370" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0006" x="1644" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0007" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0008" x="2192" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0009" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0010" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0011" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0012" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0013" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi0014" x="1918" y="0" width="274" height="613"/>
+	<SubTexture name="celebi attack0000" x="2466" y="0" width="531" height="645" pivotX="693.2" pivotY="431.2"/>
+	<SubTexture name="celebi attack0001" x="2466" y="0" width="531" height="645"/>
+	<SubTexture name="celebi attack0002" x="2997" y="0" width="531" height="645"/>
+	<SubTexture name="celebi attack0003" x="3528" y="0" width="531" height="645"/>
+	<SubTexture name="celebi attack0004" x="0" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0005" x="531" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0006" x="1062" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0007" x="1593" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0008" x="2124" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0009" x="2655" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0010" x="3186" y="645" width="531" height="645"/>
+	<SubTexture name="celebi attack0011" x="0" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0012" x="531" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0013" x="1062" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0014" x="1593" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0015" x="2124" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0016" x="2655" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0017" x="3186" y="1290" width="531" height="645"/>
+	<SubTexture name="celebi attack0018" x="0" y="1935" width="531" height="645"/>
+	<SubTexture name="celebi attack0019" x="531" y="1935" width="531" height="645"/>
+	<SubTexture name="cyndaquil0000" x="1062" y="1935" width="380" height="368" pivotX="246.7" pivotY="134.1"/>
+	<SubTexture name="cyndaquil0001" x="1442" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0002" x="1822" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0003" x="2202" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0004" x="2582" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0005" x="2962" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0006" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0007" x="0" y="2580" width="380" height="368"/>
+	<SubTexture name="cyndaquil0008" x="380" y="2580" width="380" height="368"/>
+	<SubTexture name="cyndaquil0009" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0010" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0011" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0012" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0013" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil0014" x="3342" y="1935" width="380" height="368"/>
+	<SubTexture name="cyndaquil attack0000" x="760" y="2580" width="398" height="412" pivotX="252.75" pivotY="178.75"/>
+	<SubTexture name="cyndaquil attack0001" x="760" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0002" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0003" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0004" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0005" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0006" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0007" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0008" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0009" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0010" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0011" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0012" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0013" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0014" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0015" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0016" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0017" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0018" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0019" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0020" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0021" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0022" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0023" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0024" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0025" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0026" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0027" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0028" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0029" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0030" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0031" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0032" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0033" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0034" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0035" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0036" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0037" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0038" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0039" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0040" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0041" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0042" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0043" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0044" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0045" x="1158" y="2580" width="398" height="412"/>
+	<SubTexture name="cyndaquil attack0046" x="1158" y="2580" width="398" height="412"/>
+</TextureAtlas>
