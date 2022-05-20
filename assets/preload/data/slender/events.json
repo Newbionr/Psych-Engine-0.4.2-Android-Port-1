@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "yard2",
+		"player1": "SLENDERTrep_bf",
+		"player2": "operator",
+		"player3": null,
+		"events": [
+			[
+				14400,
+				[
+					[
+						"Cam Boom Speed",
+						"8",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "newgf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Slender"
+	}
+}
