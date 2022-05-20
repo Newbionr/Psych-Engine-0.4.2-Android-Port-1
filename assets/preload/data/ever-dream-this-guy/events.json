@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "white",
+		"player1": "bfarm",
+		"player2": "guy",
+		"player3": null,
+		"events": [
+			[
+				8228.57142857143,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0,0,0,0,0.1"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"0,0,0,0,0.1"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"0,0,0,0,0.1"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"0,0,0,0,0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "ever-dream-this-guy"
+	}
+}
