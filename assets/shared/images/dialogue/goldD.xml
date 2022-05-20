@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldD.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gtalk0000" x="0" y="0" width="474" height="500" pivotX="-14.6" pivotY="37.1"/>
+	<SubTexture name="Gtalk l0000" x="474" y="0" width="484" height="509" pivotX="-14.6" pivotY="37.1"/>
+	<SubTexture name="Gtalk l0001" x="474" y="0" width="484" height="509"/>
+	<SubTexture name="Gtalk l0002" x="0" y="509" width="484" height="509"/>
+	<SubTexture name="Gtalk l0003" x="0" y="509" width="484" height="509"/>
+	<SubTexture name="Gtalk l0004" x="484" y="509" width="484" height="509"/>
+</TextureAtlas>
